@@ -1,4 +1,4 @@
-# Hi there 👋
+## Hi there 👋
 
 As a highly motivated student at PUCIT with a deep passion for Machine Learning, Web 3.0, and Blockchain, I am dedicated to expanding my knowledge and expertise in these cutting-edge fields. With a background of AI, Data Science, ML algorithms, Operating Systems, and some development.
 
